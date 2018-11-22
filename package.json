@@ -1,0 +1,22 @@
+{
+  "name": "conchim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trangmeo99/conchim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trangmeo99/conchim/issues"
+  },
+  "homepage": "https://github.com/trangmeo99/conchim#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
