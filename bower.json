@@ -1,0 +1,17 @@
+{
+  "name": "conchim",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "huyentrang99 <huyentrang99.pham@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/trangmeo99/conchim",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
